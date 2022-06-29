@@ -22,7 +22,7 @@ Office Addins ülesanne 1: Create an Excel task pane add-in:
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> Latest Excel has to be installed on machine
 
 ## Solution
 
