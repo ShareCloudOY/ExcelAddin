@@ -1,4 +1,4 @@
-# app-extension
+# Excel Addin
 
 ## Summary
 
