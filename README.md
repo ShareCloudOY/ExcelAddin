@@ -28,13 +28,13 @@ Office Addins ülesanne 1: Create an Excel task pane add-in:
 
 Solution|Author(s)
 --------|---------
-GraphApiWp | Mihkel Moorats - ShareCloud OÜ
+Excel Addin | Mihkel Moorats - ShareCloud OÜ
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.0.1.0|March 16, 2022|Initial release
+1.0.1|June 29, 2022|Initial release
 
 ## Disclaimer
 
